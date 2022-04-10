@@ -1,5 +1,4 @@
 # cheatsheets
 
-This repo contains my curated lists of most commonly used commands in everyday toolings: SQL, R, Python, Git... 
-
+In this repo I collect cheatsheets that are useful for a data scientist's everyday tasks.  
 
